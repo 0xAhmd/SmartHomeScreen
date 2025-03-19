@@ -21,6 +21,7 @@ class CustomAppBar extends StatelessWidget {
           ),
 
           const CircleAvatar(
+            radius: 26,
             backgroundImage: AssetImage('assets/images/profile.png'),
           ),
         ],
